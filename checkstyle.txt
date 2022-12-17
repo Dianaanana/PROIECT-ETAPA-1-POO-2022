@@ -1,0 +1,23 @@
+Starting audit...
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\checker\CheckStyleConstants.java:3:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\LoginPage.java:41: Line is longer than 100 characters (found 106). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\LogoutPage.java:16: Line is longer than 100 characters (found 108). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\LogoutPage.java:28: Line is longer than 100 characters (found 130). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:100: Line is longer than 100 characters (found 118). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:122: Line is longer than 100 characters (found 104). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:142: Line is longer than 100 characters (found 106). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:162: Line is longer than 100 characters (found 109). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:186: Line is longer than 100 characters (found 130). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\pages\MoviesPage.java:215: Line is longer than 100 characters (found 121). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\Server.java:45: Line is longer than 100 characters (found 118). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\Server.java:58: Line is longer than 100 characters (found 108). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\Server.java:59: Line is longer than 100 characters (found 101). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\Server.java:70: Line is longer than 100 characters (found 103). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\util\Mapper.java:14:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\util\Mapper.java:30: Line is longer than 100 characters (found 102). [LineLength]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\util\Utils.java:12:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\server\util\Utils.java:54:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\Test.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\gigel\Desktop\facultate\POO\PROIECT-ETAPA-1-POO-2022\.\src\Test.java:9:28: Using the '.*' form of import should be avoided - java.util.concurrent.*. [AvoidStarImport]
+Audit done.
+Checkstyle ends with 20 errors.
